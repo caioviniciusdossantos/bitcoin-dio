@@ -32,6 +32,7 @@ console.log("Endereco:", btcAddress)
 console.log("Chave privada:",node.toWIF())
 console.log("Seed",mnemonic)
 
+
 // resultado ok
 Chave privada: cPxpoVNw5RcjjFShRVHH7FjFhQyAWLhnXs7xtPGSR8P3YW43vwFQ   
 Seed night child space click view cat title memory snap best mask earn
